@@ -9,7 +9,7 @@ Extract the files here to a folder in Linux machine, the folder should contain:
 CMakeLists.txt (file), Script.sh (bash script), Cpp files, Headers and Library (all folders that contain cpp/h files).
 
 Compilation Instructions:
-1. Navigate using the terminal to the folder "Ex02"
+1. Navigate using the terminal to the folder
 2. Run the following command in this order: "chmod u+x Script.sh", "cmake CMakeLists.txt", "make"
 
 Notes:
